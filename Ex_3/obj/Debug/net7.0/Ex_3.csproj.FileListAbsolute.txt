@@ -1,0 +1,15 @@
+C:\GB\HW_5_C#\Ex_3\bin\Debug\net7.0\Ex_3.exe
+C:\GB\HW_5_C#\Ex_3\bin\Debug\net7.0\Ex_3.deps.json
+C:\GB\HW_5_C#\Ex_3\bin\Debug\net7.0\Ex_3.runtimeconfig.json
+C:\GB\HW_5_C#\Ex_3\bin\Debug\net7.0\Ex_3.dll
+C:\GB\HW_5_C#\Ex_3\bin\Debug\net7.0\Ex_3.pdb
+C:\GB\HW_5_C#\Ex_3\obj\Debug\net7.0\Ex_3.csproj.AssemblyReference.cache
+C:\GB\HW_5_C#\Ex_3\obj\Debug\net7.0\Ex_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\HW_5_C#\Ex_3\obj\Debug\net7.0\Ex_3.AssemblyInfoInputs.cache
+C:\GB\HW_5_C#\Ex_3\obj\Debug\net7.0\Ex_3.AssemblyInfo.cs
+C:\GB\HW_5_C#\Ex_3\obj\Debug\net7.0\Ex_3.csproj.CoreCompileInputs.cache
+C:\GB\HW_5_C#\Ex_3\obj\Debug\net7.0\Ex_3.dll
+C:\GB\HW_5_C#\Ex_3\obj\Debug\net7.0\refint\Ex_3.dll
+C:\GB\HW_5_C#\Ex_3\obj\Debug\net7.0\Ex_3.pdb
+C:\GB\HW_5_C#\Ex_3\obj\Debug\net7.0\Ex_3.genruntimeconfig.cache
+C:\GB\HW_5_C#\Ex_3\obj\Debug\net7.0\ref\Ex_3.dll
